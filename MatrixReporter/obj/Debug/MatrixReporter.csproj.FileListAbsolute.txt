@@ -1,0 +1,15 @@
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.dll
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.pdb
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.dll
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.pdb
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.dll
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.pdb
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.dll
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\MatrixReporter\bin\Debug\MatrixReporter.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\MatrixReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\MatrixReporter\obj\Debug\MatrixReporter.pdb

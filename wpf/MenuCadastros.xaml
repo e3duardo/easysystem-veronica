@@ -1,0 +1,27 @@
+﻿<MenuItem x:Class="wpf.MenuCadastros"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="23" d:DesignWidth="300" Header="Cadastros">
+
+    <MenuItem Header="Cliente">
+        <MenuItem Header="Pessoa física"/>
+        <MenuItem Header="Pessoa jurídica"/>
+    </MenuItem>
+    
+    <MenuItem Header="Funcionário">
+        <MenuItem Header="Funcionário"/>
+        <MenuItem Header="Alterar senha"/>
+        <MenuItem Header="Permissões"/>
+    </MenuItem>
+    
+    <MenuItem Header="Produto">
+        <MenuItem Header="Produto"/>
+        <MenuItem Header="Setor"/>
+        <MenuItem Header="Estoque"/>
+        <MenuItem Header="Fornecedor"/>
+    </MenuItem>
+
+</MenuItem>

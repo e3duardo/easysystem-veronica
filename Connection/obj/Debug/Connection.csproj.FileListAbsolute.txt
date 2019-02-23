@@ -1,0 +1,15 @@
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\Connection\bin\Debug\Connection.dll
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\Connection\bin\Debug\Connection.pdb
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\Connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\Connection\obj\Debug\Connection.dll
+C:\Documents and Settings\Eduardo\Desktop\Easysystem_Veronica\Connection\obj\Debug\Connection.pdb
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\Connection\bin\Debug\Connection.dll
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\Connection\bin\Debug\Connection.pdb
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\Connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\Connection\obj\Debug\Connection.dll
+C:\Documents and Settings\Vinícius\Desktop\Easysystem_Veronica\Connection\obj\Debug\Connection.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\Connection\bin\Debug\Connection.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\Connection\bin\Debug\Connection.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\Connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\Connection\obj\Debug\Connection.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\Easysystem_Veronica\Connection\obj\Debug\Connection.pdb
